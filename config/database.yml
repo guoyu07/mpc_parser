@@ -1,0 +1,19 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: false
+  database: mpc_dev
+  pool: 5
+  username: bhuser
+  password: "363099"
+  host: localhost
+
+test:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: false
+  database: mpc_test
+  pool: 5
+  username: bhuser
+  password: "363099"
+  host: localhost
