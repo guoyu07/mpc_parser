@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  mid: MyString
+  branch: MyString
+  branch: MyString
+  address: MyString
+  tag: MyString
+  road_name: MyString
+  area_name: MyString
+  latitude: MyString
+  longitude: MyString
+
+two:
+  mid: MyString
+  branch: MyString
+  branch: MyString
+  address: MyString
+  tag: MyString
+  road_name: MyString
+  area_name: MyString
+  latitude: MyString
+  longitude: MyString
